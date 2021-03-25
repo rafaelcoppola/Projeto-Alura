@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto Mono',monospace;
     min-height: 400px;
     background-image: url('../Imagens/estrada.jpg');
-    background-size: 97rem;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
